@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![hi there](https://media.giphy.com/media/4BXO1nZSI7QDS/giphy.gif)
+
+### About me
+* python developer
+* CTF & hackathons participant
+* fond of applied rationality
+* gonna steal your cookies)
+
+contact me via [telegram](https://t.me/gloomy_philosopher)
